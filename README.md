@@ -36,6 +36,6 @@ This project fine-tunes a DistilBERT model for multi-class genre classification 
 
 ## Links
 
-- **Kaggle Notebook**: https://www.kaggle.com/code/reeteshsingh/distilbert-goodreads-classification
+- **Kaggle Notebook**: https://www.kaggle.com/code/reeteshsingh93/notebook004403c9de
 - **Hugging Face Model**: https://huggingface.co/reeteshsingh/distilbert-goodreads-genres
 - **W&B Dashboard**: https://wandb.ai/g25ait2086-iit-jodhpur/huggingface
